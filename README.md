@@ -1,7 +1,7 @@
 ### Ooi, eu sou a Duanny 👋
 
-- 🔭 Hoje eu faço estágio em BI
-- 🌱 Estou estudando Front-end e UX-UI
+- 🔭 Hoje eu faço estágio em Estratégia e Técnologia voltada a Dados na Globo
+- 🌱 Minha área de estudos é Ciência de Dados e BI 
 - 📫 Contate-me por e-mail: duevelynsantos@gmail.com
 - 😄 Pronouns: Ela/Dela
 
