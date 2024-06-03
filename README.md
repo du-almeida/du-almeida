@@ -1,8 +1,8 @@
 ### Ooi, eu sou a Duanny 👋
 
 - 🔭 Hoje eu faço estágio em Desenvolvimento Front-end
-- 🌱 Minha área de estudos é Front-end e Back-end
-- 📫 Contate-me por e-mail: de-almeida@outloo.com.br
+- 🌱 Minha área de estudos é Front-end e em breve Back-end também 
+- 📫 Contate-me por e-mail: de-almeida@outlook.com.br
 - 😄 Pronouns: Ela/Dela
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
