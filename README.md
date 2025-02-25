@@ -1,7 +1,7 @@
 ### Ooi, eu sou a Du
 
-- 🔭 Hoje eu faço estágio em Desenvolvimento Front-end
-- 🌱 Minha área de estudos é Front-end e em breve Back-end também 
+- 🔭 Hoje eu faço estágio em Desenvolvimento Back-end
+- 🌱 Minha área de estudos é Back-end e em breve Front-end também 
 - 📫 Contate-me por e-mail: de-almeida@outlook.com.br
 - 😄 Pronouns: Ela/Dela
 
