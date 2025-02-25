@@ -26,6 +26,9 @@
 ![icons8-react-a-javascript-library-for-building-user-interfaces](https://github.com/user-attachments/assets/8aa545bd-6995-451a-ac23-9a70a48a3e09)
 ![icons8-next js](https://github.com/user-attachments/assets/20f3317d-153f-4820-ad54-c977dff3d7af)
 ![icons8-tailwind-css](https://github.com/user-attachments/assets/e964023d-b3f7-4c09-ac3b-dc233dded427)
+![icons8-golang](https://github.com/user-attachments/assets/YOUR-GOLANG-ICON-LINK)
+![icons8-graphql](https://github.com/user-attachments/assets/YOUR-GRAPHQL-ICON-LINK)
+
 
 </div>
 
